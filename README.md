@@ -6,7 +6,7 @@ Copy the files under the x32\plugins directory to the x64Dbg\x32\plugins directo
 Copy the files under the x64\plugins directory to the x64Dbg\x64\plugins directory.
 
 Introduction:
-It is convenient to extract the signature of the specified instruction and the number of occurrences of the signature in the search module.
+Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.
 
 使用说明：
 将 x32\plugins 目录下的文件复制到 x64Dbg\x32\plugins 目录。

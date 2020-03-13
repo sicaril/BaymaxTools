@@ -19,7 +19,6 @@ Extract the signature(pattern) of the selected instruction and check the number 
 在反汇编窗口选中多行汇编，右键菜单使用 Baymax ToOls 即可复制特征码或搜索特征码。
 
 00007FFB55651325  | 0F84 93000000                  | je ntdll.7FFB556513BE
-
 00007FFB5565132B  | CC                             | int3
 
 00007FFB5565132C  | E9 8D000000                    | jmp ntdll.7FFB556513BE
@@ -36,13 +35,8 @@ Extract the signature(pattern) of the selected instruction and check the number 
 
 00007FFB5565134A  | E8 D17AF9FF                    | call ntdll.7FFB555E8E20
 
-
-
 Src Hex: 0F 84 93 00 00 00 CC E9 8D 00 00 00 48 8B 44 24 40 44 09 70 68 48 8B 44 24 40 48 8B 48 30 48 89 0D 4E 40 09 00 E8 D1 7A F9 FF
-
 Signature: 0F 84 ?? ?? ?? ?? CC E9 ?? ?? ?? ?? 48 8B 44 24 40 44 09 70 ?? 48 8B 44 24 40 48 8B 48 ?? 48 89 0D ?? ?? ?? ?? E8 ?? ?? ?? ?? 
-
-
 
 BTW：
 可以在设置选项中勾选需要替换的类型，一般默认选项即可满足。

@@ -8,6 +8,7 @@ Extract the signature(pattern) of the selected instruction and check the number 
 Explanation:
 
 Copy the files under the x32\plugins directory to the x64Dbg\x32\plugins directory.
+
 Copy the files under the x64\plugins directory to the x64Dbg\x64\plugins directory.
 
 Instructions:

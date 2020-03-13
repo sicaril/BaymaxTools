@@ -28,6 +28,7 @@ Extract the signature(pattern) of the selected instruction and check the number 
 00007FFB55651343  | 48:890D 4E400900               | mov qword ptr ds:[7FFB556E5398],rcx
 00007FFB5565134A  | E8 D17AF9FF                    | call ntdll.7FFB555E8E20
 
+
 Src Hex: 0F 84 93 00 00 00 CC E9 8D 00 00 00 48 8B 44 24 40 44 09 70 68 48 8B 44 24 40 48 8B 48 30 48 89 0D 4E 40 09 00 E8 D1 7A F9 FF
 Signature: 0F 84 ?? ?? ?? ?? CC E9 ?? ?? ?? ?? 48 8B 44 24 40 44 09 70 ?? 48 8B 44 24 40 48 8B 48 ?? 48 89 0D ?? ?? ?? ?? E8 ?? ?? ?? ?? 
 

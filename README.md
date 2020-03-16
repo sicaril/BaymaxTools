@@ -36,3 +36,5 @@ You can set the replacement type in the settings dialog box, and the general def
 If the copied signature is not unique in the current module, you will see a popup prompt.
 
 
+
+

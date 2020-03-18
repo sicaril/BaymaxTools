@@ -1,5 +1,5 @@
 
-Baymax toOls v1.0 beta for x64dbg
+Baymax toOls v1.0 for x64dbg
 
 插件介绍：
 方便提取所选指令的特征码，及搜索模块内该特征码的出现次数。

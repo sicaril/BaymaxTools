@@ -1,5 +1,5 @@
 # BaymaxTools
-Baymax toOls v1.0 beta for x64dbg
+Baymax toOls v1.0 for x64dbg
 
 Description:
 

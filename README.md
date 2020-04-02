@@ -1,8 +1,6 @@
 # BaymaxTools
 Baymax toOls for x64dbg
 
-<img src="https://www.chinapyg.com/forum.php?mod=attachment&aid=OTQ2MjB8NTg1ZDBkZTJ8MTU4NTc4NjE3NXw4MDUzM3wxMzY4NDQ%3D&noupdate=yes"/>
-
 ## Description:
 
 Extract the signature(pattern) of the selected instruction and check the number of times the signature(pattern) appears in the current search module.

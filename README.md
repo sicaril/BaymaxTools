@@ -24,6 +24,12 @@ Select the multi-line assembly in the disassembly window and use Baymax ToOls fr
 + Src Hex: 48 8B 48 30 48 89 0D 4E 40 09 00 E8 D1 7A F9 FF 8B D8
 + Signature: 48 8B 48 ?? 48 89 0D ?? ?? ?? ?? E8 ?? ?? ?? ?? 8B D8 
 
+## Screenshots
+
+<img width="458" height="321" src="https://github.com/sicaril/BaymaxTools/blob/master/pic/about.png"/>
+<img width="539" height="367" src="https://github.com/sicaril/BaymaxTools/blob/master/pic/search.png"/>
+<img width="530" height="305" src="https://github.com/sicaril/BaymaxTools/blob/master/pic/mem_private.png"/>
+
 ## BTW:
 
 You can set the replacement type in the settings dialog box, and the general default options are sufficient.

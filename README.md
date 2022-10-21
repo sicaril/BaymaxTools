@@ -1,5 +1,8 @@
 # BaymaxTools
-Baymax toOls for x64dbg
+1. Baymax toOls for x64dbg
+2. x64dbg 调试器插件
+3. 一款高效内存数据搜索插件，支持搜索进程内所有空间，支持特征码搜索
+4. 一款支持汇编指令到特征码的提取器
 
 ## Description:
 

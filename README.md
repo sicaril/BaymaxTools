@@ -1,8 +1,6 @@
 # BaymaxTools
-1. Baymax toOls for x64dbg
-2. x64dbg 调试器插件
-3. 一款高效内存数据搜索插件，支持搜索进程内所有空间，支持特征码搜索
-4. 一款支持汇编指令到特征码的提取器
+1. BaymaxTools 是 x64dbg 调试器的一款特征码提取和搜索插件，插件可解析汇编指令并根据用户设置提取特征码；可对进程内存快速搜索特征码条目（是普通内存搜索工具速度的6~10倍）。
+2. BaymaxTools is a feature code extraction and search plug-in of x64dbg debugger, plug-in can parse assembly instructions and extract feature code according to user Settings; Feature code entries can be quickly searched for in process memory (6 to 10 times faster than ordinary memory search tools).
 
 ## Description:
 

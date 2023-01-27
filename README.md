@@ -1,5 +1,5 @@
 
-# Baymax PlugIn for x64dbg
+# Baymax Tools
 BaymaxTools is a feature code extraction and search plug-in for x64dbg debugger. The main functions are:
 1. Parse assembly instructions and extract feature codes according to user Settings;
 2. Feature code items can be quickly searched in the process memory (6~10 times faster than the ordinary memory search tool);

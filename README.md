@@ -34,9 +34,9 @@ Select the multi-line assembly in the disassembly window and use Baymax ToOls fr
 
 ## Screenshots
 
-<img width="458" height="321" src="https://github.com/sicaril/BaymaxTools/blob/master/pic/about.png"/>
-<img width="539" height="367" src="https://github.com/sicaril/BaymaxTools/blob/master/pic/search.png"/>
-<img width="530" height="305" src="https://github.com/sicaril/BaymaxTools/blob/master/pic/mem_private.png"/>
+<img src="https://github.com/sicaril/BaymaxTools/blob/master/pic/about.png"/>
+<img src="https://github.com/sicaril/BaymaxTools/blob/master/pic/search.png"/>
+<img src="https://github.com/sicaril/BaymaxTools/blob/master/pic/mem_private.png"/>
 <img src="https://github.com/sicaril/BaymaxTools/blob/master/pic/assembly.png"/>
 <img src="https://github.com/sicaril/BaymaxTools/blob/master/pic/string.png"/>
 <img src="https://github.com/sicaril/BaymaxTools/blob/master/pic/vmcode.png"/>
